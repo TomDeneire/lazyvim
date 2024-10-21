@@ -14,5 +14,5 @@ local function map(mode, lhs, rhs, opts)
   end
 end
 
-map("i", "jj", "<esc>", { desc = "Remap esc" })
+-- map("i", "jj", "<esc>", { desc = "Remap esc" })
 -- vim.keymap.del
